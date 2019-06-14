@@ -1,4 +1,4 @@
-package riemann
+package coprime
 
 import (
 	"context"

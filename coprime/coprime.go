@@ -1,4 +1,4 @@
-package riemann
+package coprime
 
 func Coprime(m, n uint64) bool {
 	for {
